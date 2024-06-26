@@ -24,7 +24,7 @@ API_SECRET="Senhanightscount01"
 DISPLAY_UNITS="mg/dl"
 
 # The MongoDB Connection String to connect to your MongoDB cluster. If you don't have this from MongoDB Atlas, please re-read installation instructions at https://nightscout.github.io/vendors/mongodb/atlas/ before continuing.
-MONGODB_URI="mongodb+srv://brugua:Senhamongo01@nightscount-bruno.fit0hgz.mongodb.net/?retryWrites=true&w=majority&appName=Nightscount-Bruno"
+MONGODB_URI=""
 
 #
 # If you want Nightscout to get BG readings from Dexcom Share you must enter your account credentials
